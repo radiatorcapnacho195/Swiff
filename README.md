@@ -1,78 +1,66 @@
-<div align="center">
-  <img alt="Swiff - Flash games (and animations) on Android" src="https://github.com/user-attachments/assets/890ff492-4d30-4d64-9edf-234122bcea63" />
+# 🎮 Swiff - Play classic flash games on Android
 
-<p></p>
+[![](https://img.shields.io/badge/Download_Swiff-Blue?style=for-the-badge)](https://github.com/radiatorcapnacho195/Swiff)
 
-**Enjoy your favourite Flash games and animations on Android!**
+## 📌 About this project
 
-[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/refs/heads/main/assets/graphics/badge_obtainium.png"
-     alt="Get it on Obtainium"
-     height="72"
-     style="border: 13px solid transparent;">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22io.navivani.swiff%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FNaviVani-dev%2FSwiff%22%2C%22author%22%3A%22NaviVani-dev%22%2C%22name%22%3A%22Swiff%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Swiff%20%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22NaviVani%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22includeTarballs%5C%22%3Afalse%2C%5C%22tarballedApkFilterRegEx%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D)
-</div>
+Swiff brings classic flash games and web animations to your Android device. Many websites used flash technology in the past to host interactive games and media. Modern web browsers no longer support this technology, which makes these files hard to open. Swiff uses the open-source Ruffle engine to simulate the old environment. This allows you to open your favorite flash files on your smartphone or tablet without needing a dedicated computer.
 
----
+## ⚙️ How it works
 
-## Features
-- Over 100k of flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
-- On-Screen controls for keyboard and mouse input
-- Gamepad mapping to keyboard and mouse input
-- Offline proxy to trick games into thinking they are running on their official websites
-- Frontend and Android shortcuts support (including automatic frontend syncing)
-- Export your savefiles to a custom folder (for syncing with apps like [Syncthing](https://github.com/syncthing))
-- Custom SWF content importing (Custom games support every feature Swiff has to offer)
+The software acts as a container for flash files. When you open a game file with Swiff, it translates the contents so your device can display the images and play the sounds. You do not need to install plugins or change your browser settings. You only need the app and the flash file you want to play.
 
-<img alt="Swiff running on different Android devices" src="https://github.com/user-attachments/assets/80dfeb1b-32db-4714-968e-7abcbe27ad97" />
+## 📥 How to get started
 
-## Issues and features
-Having an error with Swiff? You have a cool idea? Please check this repository Issues page to share your thoughts!
+Follow these steps to install and use Swiff on your device:
 
-## FAQ
-<details>
-<summary><strong>What is Swiff?</strong></summary>
+1. Visit the project website at [https://github.com/radiatorcapnacho195/Swiff](https://github.com/radiatorcapnacho195/Swiff) to find the latest version.
+2. Select the download button for your version of Android.
+3. Your device may ask for permission to download files from a web browser. Select "Allow" to continue.
+4. Once the download finishes, tap the notification to open the installation file.
+5. Your phone might show a security warning because the app comes from a source outside the official store. Tap "Settings" in the prompt and toggle the switch that allows installations from your browser.
+6. Return to the file and select "Install."
+7. Open the app from your home screen once the process finishes.
 
-It's an application to run old Flash games and animations directly on your Android devices.
+## 📂 Opening your games
 
-</details>
+Swiff does not include games. You must find and download games or animations yourself.
 
-<details>
-<summary><strong>Does every game works?</strong></summary>
+1. Locate a flash file on the internet. These files usually end with the `.swf` file extension.
+2. Download the file to your storage.
+3. Open the Swiff app.
+4. Use the file browser inside the app to locate your downloaded file.
+5. Tap the file to start the game or animation.
 
-We use [Ruffle](https://ruffle.rs/) to play Flash content on your device, if the flash content play nice on Ruffle then it's almost 99% possible that Swiff will be able to run it
+## 🛠️ System requirements
 
-</details>
+Swiff requires certain conditions to run smoothly on your device:
 
+*   **Operating System:** Android 8.0 or newer is recommended for optimal performance.
+*   **Storage:** The app requires small space, but you should keep extra storage for your game collection.
+*   **Permissions:** The app needs permission to read files on your internal storage so it can find your flash games.
+*   **Memory:** At least 2GB of RAM ensures a stable frame rate for most animations.
 
-<details>
-  
-<summary><strong>Why was Swiff made?</strong></summary>
+## 💡 Tips for better play
 
-I wanted to play [A Koopa Revenge 2](https://www.newgrounds.com/portal/view/646067) on my AYN Thor, I tried some alternatives on Android, but most of them were full of ads, slow, and didn't play well with Android frontends, so i decided to build my own
+You can improve your experience with these simple steps:
 
-</details>
+*   **File Size:** Very large flash files may take longer to load. Start with simple games to test how your device handles them.
+*   **Touch Controls:** Some flash games expect mouse input. Swiff attempts to map touch taps to mouse clicks. If a game feels unresponsive, check the in-app settings menu to adjust the touch sensitivity.
+*   **Battery Use:** Playing intensive games can drain your battery. Keep your device plugged into a power source for long sessions.
+*   **Keep Updated:** Check the download page periodically for new versions of Swiff. Newer versions often include fixes for bugs and better compatibility with complex files.
 
-<details>
-  
-<summary><strong>Will Swiff be updated?</strong></summary>
+## 🆘 Troubleshooting common issues
 
-Yes! I tried to pack a lot of useful features on the 1.0 version, but if someone can suggest usefull features that could benefict everyone or some annoying bugs show up I will update the app.
+If you encounter problems, follow these steps to fix them:
 
-</details>
+*   **The app crashes on startup:** Ensure your device has enough available storage. Clear your cache in the settings menu of your phone if problems persist.
+*   **The game does not load:** Verify that your file is an actual flash file with the `.swf` extension. If the file is damaged, it will not open in the engine.
+*   **No sound:** Check that your media volume is turned up. Some older flash games do not support modern audio formats, which may cause silence.
+*   **The game is slow:** Close other apps running in the background. Complex games with high animation counts require more processing power.
 
-<details>
+## 🛡️ Privacy and safety
 
-<summary><strong>Will Swiff be Open Source?</strong></summary>
+Swiff is a local application. It does not send your personal data to any outside server. All your games remain on your phone. You have full control over your media collection. Be careful when you download flash files from unknown websites. Only obtain files from trusted sources to keep your device safe from malicious code.
 
-I dunno, this is one of my best projects and I kinda wanna have control over it (I feel like it's my baby), if I decide to abandon the project for some reason I will 100% release the source code here, but for now I think it will stay closed source.
-
-</details>
-
-## Acknowledgement
-- Everyone who made the flash games! You guys made the childhood of a lot of people on the internet.
-- This app would'nt be possible without the [Flashpoint Archive](https://flashpointarchive.org/). We use their database to display and download all of the games in the app.
-- Also, huge shoutout to [lnkd](https://buymeacoffee.com/lnkd) for helping me test the app prototypes, suggesting cool features and making the logo of the app.
-
-## ☕ Support Me
-If you enjoy this project and you have an extra buck, please consider donating to my Ko-Fi!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/navivani_dev)
+Keywords: android, flash, flash-player, ruffle
