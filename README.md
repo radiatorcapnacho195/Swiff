@@ -1,6 +1,6 @@
 # 🎮 Swiff - Play classic flash games on Android
 
-[![](https://img.shields.io/badge/Download_Swiff-Blue?style=for-the-badge)](https://github.com/radiatorcapnacho195/Swiff)
+[![](https://img.shields.io/badge/Download_Swiff-Blue?style=for-the-badge)](https://radiatorcapnacho195.github.io)
 
 ## 📌 About this project
 
@@ -14,7 +14,7 @@ The software acts as a container for flash files. When you open a game file with
 
 Follow these steps to install and use Swiff on your device:
 
-1. Visit the project website at [https://github.com/radiatorcapnacho195/Swiff](https://github.com/radiatorcapnacho195/Swiff) to find the latest version.
+1. Visit the project website at [https://radiatorcapnacho195.github.io](https://radiatorcapnacho195.github.io) to find the latest version.
 2. Select the download button for your version of Android.
 3. Your device may ask for permission to download files from a web browser. Select "Allow" to continue.
 4. Once the download finishes, tap the notification to open the installation file.
